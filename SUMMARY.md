@@ -9,4 +9,5 @@
   * [2. 시간 복잡도 (Time Complexity)](computer-science/algorithm/2.-time-complexity.md)
   * [3. 스택 (Stack)](computer-science/algorithm/3.-stack.md)
   * [3.1 스택 (Stack) 예시 문제](computer-science/algorithm/3.1-stack.md)
+  * [4. 큐 (Queue)](computer-science/algorithm/4.-queue.md)
   * [Reference & Tip](computer-science/algorithm/reference-and-tip.md)
