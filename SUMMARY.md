@@ -17,4 +17,5 @@
   * [4. 큐 (Queue)](computer-science/algorithm/4.-queue.md)
   * [5. 연결 리스트](computer-science/algorithm/5..md)
   * [6. 해시 테이블 (Hash Table)](computer-science/algorithm/6.-hash-table.md)
+  * [7. 해시 테이블 (Hash Table) 예시 문제](computer-science/algorithm/7.-hash-table.md)
   * [Reference & Tip](computer-science/algorithm/reference-and-tip.md)
