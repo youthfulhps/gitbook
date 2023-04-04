@@ -6,6 +6,8 @@
 
 * [📥 Bundler](web/bundler/README.md)
   * [1. Vite](web/bundler/1.-vite.md)
+* [🎨 CSS](web/css/README.md)
+  * [1. Font](web/css/1.-font.md)
 
 ## 🖥 Computer Science
 
@@ -20,8 +22,3 @@
   * [7. Hash Table Problem](computer-science/algorithm/7.-hash-table.md)
   * [8. Graph](computer-science/algorithm/8.-graph.md)
   * [Reference & Tip](computer-science/algorithm/reference-and-tip.md)
-
-## Group 1
-
-* [🎨 CSS](group-1/css.md)
-* [1. Font](group-1/1.-font.md)
