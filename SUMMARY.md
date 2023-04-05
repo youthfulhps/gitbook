@@ -19,6 +19,12 @@
   * [4. Server Component](web/react/4.-server-component.md)
 * [💻 Browser](web/browser/README.md)
   * [1. Search Engine](web/browser/1.-search-engine.md)
+* [🔔 General](web/general/README.md)
+  * [1. Cookie, Session](web/general/1.-cookie-session.md)
+  * [2. MPA, SPA, CSR, SSR](web/general/2.-mpa-spa-csr-ssr.md)
+  * [3. Browser Storage](web/general/3.-browser-storage.md)
+  * [4. CORS](web/general/4.-cors.md)
+  * [5. OAuth](web/general/5.-oauth.md)
 
 ## 🖥 Computer Science
 
