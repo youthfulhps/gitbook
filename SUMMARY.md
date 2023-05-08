@@ -47,7 +47,8 @@
   * [1. Function Declaration](language/javascript/1.-function-declaration.md)
   * [2. Prototype](language/javascript/2.-prototype.md)
   * [3. Generator](language/javascript/3.-generator.md)
-* [🖋 TypeScript](language/typescript.md)
+* [🖋 TypeScript](language/typescript/README.md)
+  * [1. 조건적인 타입 선언을 위한 문법들](language/typescript/1..md)
 
 ## ⌨ DEVELOPMENT
 
