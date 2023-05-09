@@ -25,6 +25,7 @@
   * [3. Browser Storage](web/general/3.-browser-storage.md)
   * [4. CORS](web/general/4.-cors.md)
   * [5. OAuth](web/general/5.-oauth.md)
+  * [6. HTTP, HTTPS](web/general/6.-http-https.md)
 
 ## 🖥 Computer Science
 
