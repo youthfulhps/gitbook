@@ -59,3 +59,4 @@
   * [1. Upstream](development/git/1.-upstream.md)
 * [🗄 Etc](development/etc/README.md)
   * [1. Webstorm Snippet](development/etc/1.-webstorm-snippet.md)
+  * [2. 아이폰 사파리 로그를 맥북에서 확인하기](development/etc/2..md)
